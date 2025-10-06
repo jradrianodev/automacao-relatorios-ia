@@ -2,8 +2,8 @@
 
 ## 🚀 Demonstração do Projeto
 
-![GIF de Demonstração do Bot]((https://github.com/user-attachments/assets/8044fa61-de8a-4270-88bb-37e65322cecf)
-*(Clique na imagem para ver o bot em ação: envio de resumo via Telegram e recebimento do relatório/plano de ação por e-mail.)*
+![Demonstração do Bot de Relatórios com IA](https://github.com/user-attachments/assets/8044fa61-de8a-4270-88bb-37e65322cecf)
+*(Demonstração do fluxo completo: envio de um resumo de atividades via Telegram e o recebimento do e-mail com o relatório operacional formatado.)*
 
 ## 📄 Descrição do Projeto
 
