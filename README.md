@@ -2,7 +2,7 @@
 
 ## 🚀 Demonstração do Projeto
 
-![GIF de Demonstração do Bot]([LINK_PARA_SEU_GIF_AQUI])
+![GIF de Demonstração do Bot]((https://github.com/user-attachments/assets/8044fa61-de8a-4270-88bb-37e65322cecf)
 *(Clique na imagem para ver o bot em ação: envio de resumo via Telegram e recebimento do relatório/plano de ação por e-mail.)*
 
 ## 📄 Descrição do Projeto
