@@ -3,6 +3,7 @@
 ## 🚀 Demonstração do Projeto
 
 ![Demonstração do Bot de Relatórios com IA](https://github.com/user-attachments/assets/8044fa61-de8a-4270-88bb-37e65322cecf)
+
 *(Demonstração do fluxo completo: envio de um resumo de atividades via Telegram e o recebimento do e-mail com o relatório operacional formatado.)*
 
 ## 📄 Descrição do Projeto
